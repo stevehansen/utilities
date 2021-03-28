@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilities", "Utilities\Utilities.csproj", "{C8A99BC2-3495-4268-A097-0B6FF0C07023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordValidator", "WordValidator\WordValidator.csproj", "{CF418D04-4906-4CCB-9C36-97C646E4FF1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordValidator", "WordValidator\WordValidator.csproj", "{CF418D04-4906-4CCB-9C36-97C646E4FF1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryptor", "Encryptor\Encryptor.csproj", "{6DC2C151-4709-47FE-9543-64BF27A82D23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CF418D04-4906-4CCB-9C36-97C646E4FF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF418D04-4906-4CCB-9C36-97C646E4FF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF418D04-4906-4CCB-9C36-97C646E4FF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC2C151-4709-47FE-9543-64BF27A82D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC2C151-4709-47FE-9543-64BF27A82D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC2C151-4709-47FE-9543-64BF27A82D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC2C151-4709-47FE-9543-64BF27A82D23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
