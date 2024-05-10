@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -20,7 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="SmallSharp" Version="1.1.7" />
+    <PackageReference Include="LibGit2Sharp" Version="0.30.0" />
+    <PackageReference Include="SmallSharp" Version="*" />
+    <PackageReference Include="Spectre.Console" Version="0.49.1" />
   </ItemGroup>
 
 </Project>

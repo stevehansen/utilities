@@ -1,5 +1,8 @@
 {
   "profiles": {
+    "GitRepos.cs": {
+      "commandName": "Project"
+    },
     "TopMost.cs": {
       "commandName": "Project"
     }
